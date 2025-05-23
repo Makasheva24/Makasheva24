@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Data
+*.csv
+*.xls
+*.xlsx
+*.json
+
+# Others
+*.sqlite3
+
+# End of file
