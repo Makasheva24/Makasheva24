@@ -760,3 +760,10 @@ fig = px.scatter(
 fig.show()
 
 ```
+
+
+📂 Данные:
+Папка `train/` не включена в репозиторий из-за ограничения GitHub.
+📥 Скачать можно с Kaggle: [Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+
+
