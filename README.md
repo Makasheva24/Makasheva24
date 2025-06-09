@@ -27,7 +27,7 @@
 ---
 ⚙️ Дополнительно
 
-## 🌌 MadinaVerse Projects
+## 🌌 Projects
 
 ### 🔧 Oil & Gas Production Forecasting  
 📁 [Перейти в репозиторий](https://github.com/Makasheva24/oil-gas-production-forecasting)
@@ -58,4 +58,4 @@
 - Email: madina.makasheva2000@gmail.com
 
 ---
-“Ты либо прогрессируешь, либо остаёшься на месте. Madina chooses progress.”
+“Ты либо прогрессируешь, либо остаёшься на месте.”
